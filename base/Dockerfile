@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM centos:7
 MAINTAINER MeteorHacks Pvt Ltd.
 
 ENV METEORD_DIR /opt/meteord
